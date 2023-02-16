@@ -12,7 +12,7 @@ import java.util.Random;
 
 public class Client {
     public static void main(String[] args) {
-        final String sensor = "sensor_akerke";
+        final String sensor = "sensor_daneker_4317";
         registerSensor(sensor);
 
         Random random = new Random();
